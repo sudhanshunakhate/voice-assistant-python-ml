@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secrets — never commit
 backend/.env
 frontend/.env
@@ -20,3 +21,27 @@ frontend/dist/
 Thumbs.db
 .idea/
 .vscode/
+=======
+# Secrets — never commit
+backend/.env
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# Python
+backend/.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Node
+node_modules/
+frontend/dist/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+>>>>>>> b346c3a8e19d05c455a7bc7287e9f775bcd3a589
