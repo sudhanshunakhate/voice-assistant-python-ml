@@ -1,0 +1,5 @@
+# Python dependencies for S.U.K.U (backend).
+# Install from repository root:
+#   pip install -r requirements.txt
+# (Use the backend virtual environment — see SETUP_AND_RUN.md.)
+-r backend/requirements.txt

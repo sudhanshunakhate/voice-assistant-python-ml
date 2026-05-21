@@ -1,0 +1,22 @@
+# Secrets — never commit
+backend/.env
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# Python
+backend/.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Node
+node_modules/
+frontend/dist/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
